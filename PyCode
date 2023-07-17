@@ -1,0 +1,83 @@
+#Circle solution
+# radius = float(input("Enter the radius: "))
+# diameter = 2 * radius
+# circumference = 2.0 * radius * 3.14
+# area = 3.14 * radius * radius
+
+# print("Diameter= " +str(diameter))
+# print("Circumference= "+ str(circumference))
+# print("Area = "+ str(area))
+################################################
+ 
+ #user info
+# name = input("Enter you name ")
+# age = input("Enter your age ")
+# income = input("Enter your income ")
+# print(name, age, income)
+###############################################
+
+#sale price
+# price = float(input("Enter the item's price: "))
+# sale = price * 0.25
+# sale_price = price - sale
+# print("Price after sale = " +str(sale_price))
+################################################
+
+# seconds = int(input("Enter the seconds: "))
+# hour = seconds // 3600
+# remainingSeconds = seconds % 3600
+# minute = remainingSeconds // 60
+# second = remainingSeconds % 60
+# print("Hours:"+str(hour)+" "+"Minutes:"+str(minute)+ " "+"Seconds:"+str(second))
+################################################
+
+#average
+# s1 = int(input("Enter first score: "))
+# s2 = int(input("Enter second score: "))
+# s3 = int(input("Enter third score: "))
+# average = (s1+s2+s3) / 3
+# print("Average = " + str(average))
+################################################
+
+#rectangles
+# len1= int(input("Enter the length of first rectangle: "))
+# wid1= int(input("Enter the width of first rectangle: "))
+
+# len2= int(input("Enter the length of second rectangle: "))
+# wid2= int(input("Enter the width of second rectangle: "))
+
+# area1 = len1*wid1
+# area2 = len2*wid2
+# if (area1 > area2):
+#     print("The first rectangle has the greater area")
+# elif (area2 > area1) :
+#     print("The second rectangle has the greater area")
+# else:
+#     print ("The two recangles have the same area")
+####################################################
+
+# n = int(input("Enter number: "))
+# nn = int(str(n) + str(n))
+# nnn = int(str(n) + str(n) + str(n))
+# result = n+nn+nnn
+# print(result)
+
+####################################################
+#fahrebheit
+
+# cel = float(input("Enter degree in celsius: "))
+# fah = (cel * 1.8)+32
+# print(fah)
+
+####################################################
+#swap
+
+# a=1
+# b=2
+# c=0
+
+# c=a
+# a=b
+# b=c
+
+# print (a, b)
